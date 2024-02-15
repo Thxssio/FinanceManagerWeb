@@ -43,6 +43,6 @@ app-gestao-financeira/
     │   │   └── api.js
     │   ├── App.js
     │   ├── index.js
-    │   └── package.json
+    └── └── package.json
     
 ```
