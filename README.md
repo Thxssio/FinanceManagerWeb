@@ -13,8 +13,8 @@
  **Development steps:**
 
 
- [ ] - Frontend
- [ ] - Backend
+- [ ] Frontend
+- [ ] Backend
 ```
 
 app-gestao-financeira/
