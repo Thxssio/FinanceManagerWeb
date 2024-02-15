@@ -7,6 +7,8 @@
 - [x] NodeJS
 - [X] React
 - [X] Git
+- [x] Ubuntu 20.04
+- [x] Windows 11
 
 
 ##
