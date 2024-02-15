@@ -5,7 +5,8 @@
 ***Web finance manager with React and NodeJS.***
 
 - [x] NodeJS
-- [X] React 
+- [X] React
+- [X] Git
 
 
 ##
