@@ -9,7 +9,7 @@
 - [X] Git
 - [x] Ubuntu 20.04
 - [x] Windows 11
-- [X] MongoDB
+- [X] MySQL
 
 
 ##
