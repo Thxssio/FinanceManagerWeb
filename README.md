@@ -47,3 +47,9 @@ app-gestao-financeira/
     └── └── package.json
     
 ```
+
+Recommended:
+
+```
+npm install mysql
+```
